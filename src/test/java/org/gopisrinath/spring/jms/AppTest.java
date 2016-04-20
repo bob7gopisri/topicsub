@@ -1,4 +1,4 @@
-package org.bsnyder.spring.jms;
+package org.gopisrinath.spring.jms;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
